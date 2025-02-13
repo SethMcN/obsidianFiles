@@ -1,0 +1,8 @@
+2.1 [[Program data]]
+2.2 [[Operators]]
+2.3 [[File handling]]
+2.4 [[Program structure]]
+2.5 [[Built-in functions]]
+2.6 [[Validation and error handling]]
+2.7 [[Maintainable code]]
+2.8 [[Testing]]

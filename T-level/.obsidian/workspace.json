@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "41402b9e16578cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e31c0b028c9a225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce99413a759d54ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7994fe03103de265",
+    "type": "split",
+    "children": [
+      {
+        "id": "17d687084de6ce6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87af36eea9ecf36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6542e9f604dad038",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95038a209c145052",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b083c9d2f22e75f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3946bbedfdbdc9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1fd272a5ae6ea6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "T-Level/Networking/OSI model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OSI model"
+            }
+          },
+          {
+            "id": "a1bef524d6a4620a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "T-Level/Networking/OSI model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OSI model"
+            }
+          },
+          {
+            "id": "2a7332873301537b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "070c8d12887f8ca4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "T-Level/Networking/OSI model.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OSI model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a87af36eea9ecf36",
+  "lastOpenFiles": [
+    "T-Level/paper 2/Content area 7 Digital environments/Digital environments.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/Networks.md",
+    "T-Level/Course Summery.md",
+    "T-Level/paper 2/Content area 7 Digital environments",
+    "T-Level/paper 2",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation and regulatory requirements.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data Protection Act & UK GDPR.md",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital",
+    "T-Level/paper 1/Content area 2 Introduction to programming",
+    "T-Level/paper 1/Content area 1 Problem solving",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Emerging issues and impact of digital.md",
+    "T-Level/IoT.md",
+    "T-Level/paper 1",
+    "T-Level/Business.md",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Moral and ethical issues.md",
+    "T-Level/paper 1/Content area 2 Introduction to programming/Programming.md",
+    "T-Level/paper 1/Content area 1 Problem solving/Problem solving.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TLS.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/SSL.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/OSI model.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/UTF-8.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/ipv4.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP/IP.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP (Transmission Control Protocol.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/UDP (User Datagram Protocol).md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/3-way handshake.md",
+    "Excalidraw/Drawing 2024-10-16 15.00.08.excalidraw.md",
+    "Excalidraw",
+    "network layer.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/subnetting.md",
+    "Excalidraw/Drawing 2024-10-10 01.24.04.excalidraw.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP",
+    "subnetted.md",
+    "T-Level/paper 2/Content area 7 Digital environments/Networking"
+  ]
+}
