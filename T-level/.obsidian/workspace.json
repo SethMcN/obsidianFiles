@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e31c0b028c9a225",
+        "id": "84a4eea634262d92",
         "type": "tabs",
         "children": [
           {
-            "id": "ce99413a759d54ec",
+            "id": "55934ec67a270926",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -160,27 +160,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a87af36eea9ecf36",
+  "active": "55934ec67a270926",
   "lastOpenFiles": [
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data security and protection.md",
+    "T-Level/paper 1/Content area 1 Problem solving/Problem solving.md",
+    "T-Level/Course Summery.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Health and safety when working with computers.md",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Emerging issues and impact of digital.md",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Emerging trends and technologies.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Guidelines and codes of conduct.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Understand the purpose and role of codes of conduct.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data Protection Act & UK GDPR.md",
+    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Moral and ethical issues.md",
+    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation and regulatory requirements.md",
+    "April-2024-specification.pdf",
     "T-Level/paper 2/Content area 7 Digital environments/Digital environments.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/Networks.md",
-    "T-Level/Course Summery.md",
     "T-Level/paper 2/Content area 7 Digital environments",
     "T-Level/paper 2",
-    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation and regulatory requirements.md",
     "T-Level/paper 1/Content area 4 Legislation and regulatory requirements",
-    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation.md",
-    "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data Protection Act & UK GDPR.md",
     "T-Level/paper 1/Content area 3 Emerging issues and impact of digital",
     "T-Level/paper 1/Content area 2 Introduction to programming",
     "T-Level/paper 1/Content area 1 Problem solving",
-    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Emerging issues and impact of digital.md",
     "T-Level/IoT.md",
     "T-Level/paper 1",
     "T-Level/Business.md",
-    "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Moral and ethical issues.md",
     "T-Level/paper 1/Content area 2 Introduction to programming/Programming.md",
-    "T-Level/paper 1/Content area 1 Problem solving/Problem solving.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/TLS.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/SSL.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/OSI model.md",
@@ -190,13 +196,7 @@
     "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP (Transmission Control Protocol.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/UDP (User Datagram Protocol).md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/3-way handshake.md",
-    "Excalidraw/Drawing 2024-10-16 15.00.08.excalidraw.md",
     "Excalidraw",
-    "network layer.md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking/subnetting.md",
-    "Excalidraw/Drawing 2024-10-10 01.24.04.excalidraw.md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP",
-    "subnetted.md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking"
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP"
   ]
 }

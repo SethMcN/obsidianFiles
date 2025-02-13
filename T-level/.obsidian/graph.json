@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"T-Level/paper 1/Content area 1 Problem solving\"  ",
@@ -18,28 +18,28 @@
       "query": "path:\"T-Level/paper 1/Content area 2 Introduction to programming\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 776456
       }
     },
     {
       "query": "path:\"T-Level/paper 1/Content area 3 Emerging issues and impact of digital\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14535438
       }
     },
     {
       "query": "path:\"T-Level/paper 1/Content area 4 Legislation and regulatory requirements\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14291155
       }
     },
     {
       "query": "path:\"T-Level/paper 2/Content area 7 Digital environments\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 2032881
       }
     },
     {
@@ -76,11 +76,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.526041666666667,
   "repelStrength": 12.9166666666667,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.648679808894115,
-  "close": true
+  "scale": 0.6486798088941222,
+  "close": false
 }
