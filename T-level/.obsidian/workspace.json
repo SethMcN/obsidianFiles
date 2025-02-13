@@ -11,10 +11,14 @@
             "id": "55934ec67a270926",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithms"
             }
           }
         ]
@@ -162,6 +166,7 @@
   },
   "active": "55934ec67a270926",
   "lastOpenFiles": [
+    "Algorithms.md",
     "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation.md",
     "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data security and protection.md",
     "T-Level/paper 1/Content area 1 Problem solving/Problem solving.md",
@@ -195,7 +200,6 @@
     "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP/IP.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP (Transmission Control Protocol.md",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/UDP (User Datagram Protocol).md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking/3-way handshake.md",
     "Excalidraw",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/TCP"
   ]
