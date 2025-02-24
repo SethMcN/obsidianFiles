@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b28767eef9f4bcad",
+        "id": "aaf1a0b03ea4c5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f39b9da27b8000f3",
+            "id": "1d468112f44ec37b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "T-Level/Core project/Core project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core project"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "T-Level/Core project/Core project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Core project"
             }
           }
         ],
@@ -159,15 +164,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "070c8d12887f8ca4",
+  "active": "1d468112f44ec37b",
   "lastOpenFiles": [
+    "T-Level/Course Summery.md",
+    "April-2024-specification.pdf",
     "T-Level/paper 2/Content area 5 Business context/Service vs product.md",
     "T-Level/paper 2/Content area 5 Business context/The business environment.md",
-    "T-Level/Course Summery.md",
     "T-Level/Core project/Core project.md",
     "T-Level/paper 2/Content area 8 Security/Security.md",
     "Untitled",
@@ -191,7 +196,6 @@
     "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Data Protection Act & UK GDPR.md",
     "T-Level/paper 1/Content area 3 Emerging issues and impact of digital/Moral and ethical issues.md",
     "T-Level/paper 1/Content area 4 Legislation and regulatory requirements/Legislation and regulatory requirements.md",
-    "April-2024-specification.pdf",
     "T-Level/paper 2/Content area 7 Digital environments/Networking/Networks.md",
     "T-Level/paper 2/Content area 7 Digital environments",
     "T-Level/paper 2",
@@ -199,7 +203,6 @@
     "T-Level/IoT.md",
     "T-Level/Business.md",
     "T-Level/paper 1/Content area 2 Introduction to programming/Programming.md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking/TLS.md",
-    "T-Level/paper 2/Content area 7 Digital environments/Networking/SSL.md"
+    "T-Level/paper 2/Content area 7 Digital environments/Networking/TLS.md"
   ]
 }
