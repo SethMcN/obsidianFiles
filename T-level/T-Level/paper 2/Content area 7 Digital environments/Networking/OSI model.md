@@ -12,7 +12,7 @@ tags: #networking
 - This layer is responsible for translating data into a format that the application layer can understand. It deals with encryption/decryption (e.g., [[SSL]]/[[TLS]]), data compression, and character encoding (e.g.,[[ UTF-8]]).
 
 - #### Layer 5: Session layer 
-- Manages the establishment, maintenance, and termination of communication sessions. This layer is responsible for maintaining sessions during the communication process (e.g., the **[[3-way handshake]]** in TCP).
+- Manages the establishment, maintenance, and termination of communication sessions. This layer is responsible for maintaining sessions during the communication process (e.g., the **[[T-level/T-Level/paper 2/Content area 7 Digital environments/Networking/3-way handshake]]** in TCP).
 
 - #### Layer 4: transport layer
 - Responsible for ensuring complete data transfer. It can use **[[TCP (Transmission Control Protocol]]** for reliable communication or **[[UDP (User Datagram Protocol)]]** for faster, less reliable communication (like in video streaming or VoIP). TCP guarantees delivery and order, while UDP is more about speed, sacrificing error-checking.

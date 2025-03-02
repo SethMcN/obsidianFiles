@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b22fc9ebc5e19e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff5cc1fabb4baaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e62b71d156fc058",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "T-level/April-2024-specification.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "April-2024-specification"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "572ff15f94d1c4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabe210cfe043b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdd77f773e32f2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79b96624c713c8eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3996c3017075e474",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b01b9d7389c31453",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b45b88a8f5ab1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdbdbbac2650678e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a721ba5287d164b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "786faba830d01e16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf730992252f6ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e62b71d156fc058",
+  "lastOpenFiles": [
+    "T-level/April-2024-specification.pdf",
+    "T-level/T-Level/paper 2/Content area 8 Security/DataBreaches.md",
+    "T-level/T-Level/paper 2/Content area 7 Digital environments/3-way handshake.md",
+    "T-level/T-Level/paper 2/Content area 7 Digital environments/TCP IP & network protocols worksheet.md"
+  ]
+}
